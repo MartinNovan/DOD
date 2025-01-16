@@ -22,3 +22,28 @@ C:\Users\Mnova\Documents\Projects\LogApp\LogApp\obj\Debug\net6.0-windows\ref\Log
 C:\Users\Mnova\Documents\Projects\LogApp\LogApp\obj\Debug\net6.0-windows\App.baml
 C:\Users\Mnova\Documents\Projects\LogApp\LogApp\bin\Debug\net6.0-windows\Resources\counter.png
 C:\Users\Mnova\Documents\Projects\LogApp\LogApp\obj\Debug\net6.0-windows\LogApp_Content.g.cs
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\bin\Debug\net6.0-windows\LogApp.exe
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\bin\Debug\net6.0-windows\Resources\counter.png
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\bin\Debug\net6.0-windows\LogApp.deps.json
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\bin\Debug\net6.0-windows\LogApp.runtimeconfig.json
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\bin\Debug\net6.0-windows\LogApp.dll
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\bin\Debug\net6.0-windows\LogApp.pdb
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\obj\Debug\net6.0-windows\MainWindow.baml
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\obj\Debug\net6.0-windows\Themes\Dark.baml
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\obj\Debug\net6.0-windows\Themes\Light.baml
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\obj\Debug\net6.0-windows\App.baml
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\obj\Debug\net6.0-windows\LogApp_Content.g.cs
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\obj\Debug\net6.0-windows\LogApp_MarkupCompile.cache
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\obj\Debug\net6.0-windows\LogApp.g.resources
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\obj\Debug\net6.0-windows\LogApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\obj\Debug\net6.0-windows\LogApp.AssemblyInfoInputs.cache
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\obj\Debug\net6.0-windows\LogApp.AssemblyInfo.cs
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\obj\Debug\net6.0-windows\LogApp.csproj.CoreCompileInputs.cache
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\obj\Debug\net6.0-windows\LogApp.sourcelink.json
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\obj\Debug\net6.0-windows\LogApp.dll
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\obj\Debug\net6.0-windows\refint\LogApp.dll
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\obj\Debug\net6.0-windows\LogApp.pdb
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\obj\Debug\net6.0-windows\LogApp.genruntimeconfig.cache
+C:\Users\Mnova\Documents\GitHub\DOD\Sample projects\LogApp\LogApp\obj\Debug\net6.0-windows\ref\LogApp.dll

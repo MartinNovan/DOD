@@ -66,9 +66,10 @@ namespace LogApp
                 Logs!.Add(log);
                 var options = new JsonSerializerOptions { WriteIndented = true };
                 string jsonString = JsonSerializer.Serialize(Logs, options);
-                Console.WriteLine(jsonString);
                 await File.WriteAllTextAsync(FilePath, jsonString);
                 await LoadLogs();
+                NameBox.Clear();
+                NoteBox.Clear();
             }
             catch (Exception ex)
             {

@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "Name": "TestName",
+    "Message": "Zdrav\u00EDm toto je test!",
+    "Date": "2025-01-16",
+    "Time": "11:03:50"
+  },
+  {
+    "Name": "Test2",
+    "Message": "A toto je tak\u00E9 test",
+    "Date": "2025-01-16",
+    "Time": "11:05:25"
+  }
+]

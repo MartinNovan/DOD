@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mnova\\Documents\\Projects\\LogApp\\LogApp\\LogApp.csproj",
+      "projectUniqueName": "C:\\Users\\Mnova\\Documents\\GitHub\\DOD\\Sample projects\\LogApp\\LogApp\\LogApp.csproj",
       "projectName": "LogApp",
-      "projectPath": "C:\\Users\\Mnova\\Documents\\Projects\\LogApp\\LogApp\\LogApp.csproj",
+      "projectPath": "C:\\Users\\Mnova\\Documents\\GitHub\\DOD\\Sample projects\\LogApp\\LogApp\\LogApp.csproj",
       "packagesPath": "C:\\Users\\Mnova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mnova\\Documents\\Projects\\LogApp\\LogApp\\obj\\",
+      "outputPath": "C:\\Users\\Mnova\\Documents\\GitHub\\DOD\\Sample projects\\LogApp\\LogApp\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
