@@ -1580,11 +1580,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Mnova\\Documents\\Projects\\LogApp_Avalonia\\LogApp_Avalonia\\LogApp_Avalonia.csproj",
+      "projectUniqueName": "C:\\Users\\Mnova\\Documents\\GitHub\\DOD\\Sample projects\\LogApp_Avalonia\\LogApp_Avalonia\\LogApp_Avalonia.csproj",
       "projectName": "LogApp_Avalonia",
-      "projectPath": "C:\\Users\\Mnova\\Documents\\Projects\\LogApp_Avalonia\\LogApp_Avalonia\\LogApp_Avalonia.csproj",
+      "projectPath": "C:\\Users\\Mnova\\Documents\\GitHub\\DOD\\Sample projects\\LogApp_Avalonia\\LogApp_Avalonia\\LogApp_Avalonia.csproj",
       "packagesPath": "C:\\Users\\Mnova\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Mnova\\Documents\\Projects\\LogApp_Avalonia\\LogApp_Avalonia\\obj\\",
+      "outputPath": "C:\\Users\\Mnova\\Documents\\GitHub\\DOD\\Sample projects\\LogApp_Avalonia\\LogApp_Avalonia\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Rxu8HeOtZ9U=",
+  "dgSpecHash": "w4OUxj2ZAh4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\Mnova\\Documents\\Projects\\LogApp_Avalonia\\LogApp_Avalonia\\LogApp_Avalonia.csproj",
+  "projectFilePath": "C:\\Users\\Mnova\\Documents\\GitHub\\DOD\\Sample projects\\LogApp_Avalonia\\LogApp_Avalonia\\LogApp_Avalonia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Mnova\\.nuget\\packages\\avalonia\\11.2.3\\avalonia.11.2.3.nupkg.sha512",
     "C:\\Users\\Mnova\\.nuget\\packages\\avalonia.angle.windows.natives\\2.1.22045.20230930\\avalonia.angle.windows.natives.2.1.22045.20230930.nupkg.sha512",
